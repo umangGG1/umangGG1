@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER — upload your image as 'banner.png' in your umangGG1 repo -->
-<img src="./banner.png" width="100%" alt="umang's setup" />
+<img src="./banner.jpg" width="100%" alt="umang's setup" />
 
 <br/>
 
