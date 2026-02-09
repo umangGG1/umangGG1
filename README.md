@@ -72,7 +72,7 @@ End-to-end generation → evaluation pipeline for airline SaaS. Uses **Ragas + D
 </td>
 <td width="50%" valign="top">
 
-<h4>🏥 Nerula Health EMR</h4>
+<h4>🏥 Health EMR</h4>
 
 Healthcare platform with AI query system for nurses. **500+ users, 99.9% uptime**, MistralAI integration, 100% PHI compliant.
 
@@ -83,7 +83,7 @@ Healthcare platform with AI query system for nurses. **500+ users, 99.9% uptime*
 <tr>
 <td width="50%" valign="top">
 
-<h4>🎯 OpGuru RAG Engine</h4>
+<h4>🎯 RAG Engine</h4>
 
 Hybrid retrieval (semantic + keyword) matching **500+ profiles** to career opportunities. Multi-stage pipeline with vector DB search.
 
