@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-**AI Developer @ RaisnAI · IIT Roorkee '27**
+**Developer @ RaisnAI · IIT Roorkee '27**
 
 I build LLM agents, RAG pipelines, and eval systems — then make sure they actually work in prod.
 
@@ -21,7 +21,7 @@ I build LLM agents, RAG pipelines, and eval systems — then make sure they actu
 ```yaml
 name: Umang Singh
 location: IIT Roorkee, India
-current_role: AI Developer @ RaisnAI
+current_role: Developer @ RaisnAI
 previous: [Renaiscent AI, OpGuru]
 
 working_on:
