@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="umang's setup" />
+<img src="https://raw.githubusercontent.com/umangGG1/umangGG1/main/banner.png" width="100%" alt="umang's setup" />
 
 <br/><br/>
 
@@ -26,8 +26,8 @@ previous: [Renaiscent AI, OpGuru]
 
 working_on:
   - production multi-agent systems & RAG infra at RaisnAI
-  - JiloHealth — AI-powered healthcare EMR platform
-  - LLM eval pipelines — open-source alternative to ClearLabs.ai
+  - ML-based health screening platform
+  - RAG evaluation frameworks
   - hybrid retrieval engines combining semantic + keyword search
 
 interests:
@@ -78,18 +78,18 @@ interests:
 <tr>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/umangGG1/JiloHealth">JiloHealth — Healthcare EMR Platform</a></h4>
+<h4><a href="https://github.com/umangGG1/ml-based-health-screening">ML-Based Health Screening</a></h4>
 
-Full-stack healthcare EMR with AI-powered query system for nurses. Built with FastAPI, React, MongoDB microservices. MistralAI integration for medical report generation and information retrieval. 500+ active users, 99.9% uptime, PHI compliant.
+Full-stack healthcare platform with AI-powered screening and query system for medical staff. Built with FastAPI, React, MongoDB microservices. MistralAI integration for medical report generation and intelligent information retrieval. PHI compliant with external pharmacy API integrations.
 
 `fastapi` `react` `mongodb` `mistral` `microservices`
 
 </td>
 <td width="50%" valign="top">
 
-<h4>Agent Evaluation Pipeline</h4>
+<h4><a href="https://github.com/umangGG1/RAG-Evaluator">RAG Evaluator</a></h4>
 
-End-to-end generation-to-evaluation pipeline for an airline SaaS. Benchmarks agent responses using Ragas, DeepEval, and Qwen-2B as judge. Built as a cost-effective open-source alternative to ClearLabs.ai — replacing manual QA with automated scoring for accuracy and hallucination.
+End-to-end generation-to-evaluation pipeline for benchmarking agent responses. Uses Ragas, DeepEval, and Qwen-2B as judge to automate scoring for accuracy and hallucination. Built as a cost-effective open-source alternative to commercial eval tools like ClearLabs.ai.
 
 `ragas` `deepeval` `qwen-2b` `langchain`
 
@@ -98,20 +98,20 @@ End-to-end generation-to-evaluation pipeline for an airline SaaS. Benchmarks age
 <tr>
 <td width="50%" valign="top">
 
-<h4>OpGuru — Opportunity Matching RAG Engine</h4>
+<h4><a href="https://github.com/umangGG1/AI-Resume-Editor">AI Resume Editor</a></h4>
 
-Multi-stage hybrid retrieval pipeline combining semantic search on vector DB with keyword filtering. Matches 500+ student profiles to personalized career opportunities. Boosted match relevance and user click-through rates.
+Resume optimization platform with a JD-matching engine powered by Mistral. Semantic section extraction via NLP, prompt-based editing, and automated ATS optimization. 90% parsing accuracy with 40% improvement in ATS compatibility scores.
 
-`pinecone` `langchain` `openai` `hybrid-search`
+`mistral` `nlp` `react` `node`
 
 </td>
 <td width="50%" valign="top">
 
-<h4>AI Resume Editor</h4>
+<h4><a href="https://github.com/umangGG1/Data-Compression-Decompression-Portal">Data Compression / Decompression Portal</a></h4>
 
-Resume optimization platform with JD-matching engine using Mistral. Semantic section extraction via NLP, prompt-based editing, and automated ATS optimization. 90% parsing accuracy, 40% improvement in ATS compatibility scores.
+Portal for file compression and decompression using classical algorithms. Supports multiple compression methods with a clean web interface for uploading, compressing, and downloading files efficiently.
 
-`mistral` `nlp` `react` `node`
+`algorithms` `compression` `web` `python`
 
 </td>
 </tr>
