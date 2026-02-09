@@ -80,9 +80,9 @@ interests:
 
 <h4><a href="https://github.com/umangGG1/ml-based-health-screening">ML-Based Health Screening</a></h4>
 
-Full-stack healthcare platform with AI-powered screening and query system for medical staff. Built with FastAPI, React, MongoDB microservices. MistralAI integration for medical report generation and intelligent information retrieval. PHI compliant with external pharmacy API integrations.
+A health screening app for identifying different diseases based on facial photographs 
 
-`fastapi` `react` `mongodb` `mistral` `microservices`
+`python` `huggingface`
 
 </td>
 <td width="50%" valign="top">
@@ -123,7 +123,6 @@ Portal for file compression and decompression using classical algorithms. Suppor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umangGG1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=umangGG1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160" />
 
 <br/>
